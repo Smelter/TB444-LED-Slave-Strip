@@ -1,0 +1,3 @@
+That sounds more like it. You will get few data as SYSEX - initially the color definitions on startup, again if changes are made on the TB.
+The message needs to have 4 bytes per note color only, an index byte and three R, G and B values. A full set will consist of 12 messages, one for each note.
+The MIDI note data will be as is - you will have to interpret thoese anyway.
