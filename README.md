@@ -15,3 +15,6 @@ The biggest headache for me is that as the TB444 colours can be customised. To c
 To create this manually, well....
 
 I am currently in discussions with the developer so I have created this project here as a place marker for discussions. 
+
+Update: By gentle persuasion of the developer, the TB444 firmware now has the SYSEX midi output implemented to issue the colour definitions of the keys.
+Time for me to order PCBs and implement code.
